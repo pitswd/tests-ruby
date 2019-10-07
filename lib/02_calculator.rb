@@ -2,8 +2,8 @@ def add (a, b)
     add = a+b 
 end
 
-def substract (a, b)
-    substract = a-b 
+def subtract (a, b)
+    subtract = a-b 
 end
 
 def multiply (a, b)
@@ -16,4 +16,8 @@ end
 
 def facto (a)
     facto = (1..a).inject(:*) || 1.to_i
+end
+
+def sum [a]
+    array.inject(a, :+) 
 end

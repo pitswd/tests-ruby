@@ -16,7 +16,7 @@ end
 
 describe "subtract" do
   it "subtracts numbers" do
-    expect(substract(10,4)).to eq(6)
+    expect(subtract(10,4)).to eq(6)
   end
 end
 
