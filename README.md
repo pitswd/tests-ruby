@@ -5,7 +5,7 @@ Les exos 1 à 4 fonctionnent sans problèmes, et ne retournent aucun message d'e
 Concernant l'exo 5, je sais que la solution attendue n'est pas forcément celle-ci, mais ça marche.
 
 Concernant l'exo 6... Désolé mais j'avais plus la foi.
-==========
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
