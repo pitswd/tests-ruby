@@ -1,3 +1,11 @@
+Done by Paul Poitrenaud, working in pair-programming w/ Thomas Delage, Zelig Bouillot & Helene Poussereau
+
+Les exos 1 à 4 fonctionnent sans problèmes, et ne retournent aucun message d'erreur.
+
+Concernant l'exo 5, je sais que la solution attendue n'est pas forcément celle-ci, mais ça marche.
+
+Concernant l'exo 6... Désolé mais j'avais plus la foi.
+==========
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
